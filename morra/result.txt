@@ -1,0 +1,6 @@
+Fingers total
+3 4
+1 5
+Correct total is 4
+
+PLAYER 1 WINS
