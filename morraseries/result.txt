@@ -1,0 +1,107 @@
+Game 0:
+Player      |Fingers    |Total
+============|===========|============
+1           |2          |6
+2           |4          |8
+
+Correct total is 6
+PLAYER 1 WINS
+
+-------------------------------------
+Game 1:
+Player      |Fingers    |Total
+============|===========|============
+1           |3          |4
+2           |3          |8
+
+Correct total is 6
+NO ONE WINS
+
+-------------------------------------
+Game 2:
+Player      |Fingers    |Total
+============|===========|============
+1           |3          |3
+2           |1          |9
+
+Correct total is 4
+NO ONE WINS
+
+-------------------------------------
+Game 3:
+Player      |Fingers    |Total
+============|===========|============
+1           |3          |4
+2           |4          |7
+
+Correct total is 7
+PLAYER 2 WINS
+
+-------------------------------------
+Game 4:
+Player      |Fingers    |Total
+============|===========|============
+1           |1          |9
+2           |2          |2
+
+Correct total is 3
+NO ONE WINS
+
+-------------------------------------
+Game 5:
+Player      |Fingers    |Total
+============|===========|============
+1           |2          |8
+2           |2          |8
+
+Correct total is 4
+NO ONE WINS
+
+-------------------------------------
+Game 6:
+Player      |Fingers    |Total
+============|===========|============
+1           |3          |7
+2           |4          |9
+
+Correct total is 7
+PLAYER 1 WINS
+
+-------------------------------------
+Game 7:
+Player      |Fingers    |Total
+============|===========|============
+1           |2          |8
+2           |2          |2
+
+Correct total is 4
+NO ONE WINS
+
+-------------------------------------
+Game 8:
+Player      |Fingers    |Total
+============|===========|============
+1           |4          |7
+2           |3          |4
+
+Correct total is 7
+PLAYER 1 WINS
+
+-------------------------------------
+Game 9:
+Player      |Fingers    |Total
+============|===========|============
+1           |1          |2
+2           |4          |5
+
+Correct total is 5
+PLAYER 2 WINS
+
+-------------------------------------
+=====================================
+Summary of the series
+=====================================
+Player 1 won 3 games
+Player 2 won 2 games
+
+Winner of the series: It is PLAYER 1
